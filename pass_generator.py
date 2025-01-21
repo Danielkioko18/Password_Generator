@@ -43,7 +43,7 @@ pass_length.pack()
 btn = tk.Button(root, text='Start', command=create_pass,font=("Arial", 16))
 btn.pack()
 
-btn_copy = tk.Button(root, text='Copy to clipboard', command=copy_pwd,font=("Arial", 16 )
+btn_copy = tk.Button(root, text='Copy to clipboard', command=copy_pwd,font=("Arial", 16 ))
 btn_copy.pack()
 
 text_result = tk.Label(root, text='',font=("Arial", 16))
