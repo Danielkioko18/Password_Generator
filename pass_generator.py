@@ -49,7 +49,7 @@ btn_copy.pack()
 text_result = tk.Label(root, text='',font=("Arial", 16))
 text_result.pack()
 
-lbl_alert = tk.Label(root, text='',font=("Arial", 16)
+lbl_alert = tk.Label(root, text='',font=("Arial", 16))
 lbl_alert.pack()
 
 root.mainloop()
